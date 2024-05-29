@@ -3,7 +3,7 @@
 비트코인 해커톤 트랙 A 제출물
 Node.js로 작성했습니다.
 
-작성자 : @aiiiden
+작성자 : [@aiiiden](https://github.com/aiiiden)
 
 ## 실행 방법
 
